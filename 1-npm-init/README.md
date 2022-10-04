@@ -1,19 +1,4 @@
----
-title: "Pasos iniciales con npm"
-author: "Daniel Cespedes"
-date: "04/10/2022"
-output:
-	html_document:
-		toc: true		->queremos visible el índice
-		toc_depth: 5	->el número indica el n° de niveles visibles
-		toc_float:
-			collapsed: false	->con esto en true aparecen ocultos los subencabezados
-			smooth_scroll: true
----
-
-```{r setup, include=FALSE}
-knir::opts_chunk$set(echo = true)
-```
+[[_TOC_]]
 
 # NPM init
 
