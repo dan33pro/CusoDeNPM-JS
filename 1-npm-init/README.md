@@ -11,6 +11,10 @@ output:
 			smooth_scroll: true
 ---
 
+```{r setup, include=FALSE}
+knir::opts_chunk$set(echo = true)
+```
+
 # NPM init
 
 ## Instalción de NPM en WSL
