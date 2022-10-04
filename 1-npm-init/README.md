@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # NPM init
 
 ## Instalción de NPM en WSL
