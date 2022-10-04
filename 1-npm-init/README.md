@@ -53,24 +53,23 @@ Ver lista de paquetes globales
 
 1. Instalar una dependencia opcional
 
-- `npm install package-name -o`
+	- `npm install package-name -o`
 
 2. Se pueden generar conflictos cuando se tienen paquetes que usan la misma dependencia pero en versiones diferentes. Para evitar esto se puede simular una instalación con
 
-- `npm install package-name —dry-run`
-
- Con esto se simula la instalación pero sin agregar ningún paquete, si no hay ningún conflicto se procede a instalar de la manera convencional.
+	- `npm install package-name —dry-run`
+Con esto se simula la instalación pero sin agregar ningún paquete, si no hay ningún conflicto se procede a instalar de la manera convencional.
 
 3. Instalar la versión especifica de un paquete.
 
-- `npm install package-name@version`
+	- `npm install package-name@version`
 Si luego se quiere instalar la versión más reciente se usa
 
-- `npm install package-name@latest`
+	- `npm install package-name@latest`
 
 4. Instala las dependencias que estén dentro de un package.json.
 
-- `npm install`
+	- `npm install`
 
 ## Comandos en NPM (Scripts)
 
