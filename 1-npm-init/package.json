@@ -1,0 +1,24 @@
+{
+  "name": "1-npm-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "angular",
+    "node"
+  ],
+  "author": "DanielCG",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
